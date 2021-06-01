@@ -1,0 +1,18 @@
+
+
+.atoz-nav-bar {
+    display: flex;
+    justify-content: space-between;
+}
+.tile-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.current-letter{
+    color: darkorange
+}
+#home-header{
+    color: darkorange;
+    padding-left: 25px;
+}

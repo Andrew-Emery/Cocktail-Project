@@ -1,0 +1,31 @@
+
+.drink-tile {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: solid 3px black;
+    width: 415px;
+    margin: 25px;
+    padding-bottom: 25px;
+    height: 600px;
+    overflow: auto;
+    background: linear-gradient(180deg, rgba(73,142,157,1) 10%, rgba(163,125,10,1) 50%, rgba(110,5,5,1) 90%);
+    color: white;
+    text-shadow: 1px 1px black;
+
+}
+.drink-tile-heading {
+    margin: 25px 25px 0px 25px;
+}
+.drink-tile-preview{
+    width: 347px;
+    margin: 0px 25px 0px 25px;
+    border: solid darkgray 3px;
+}
+.drink-tile-subheading {
+    margin: 25px 25px 25px 25px;
+}
+.drink-tile-content {
+    margin: 0px 25px 0px 25px;
+}
+
